@@ -1,0 +1,26 @@
+
+##########################
+# Unreal Generated Files #
+##########################
+
+*/ThirdMoon/Binaries/
+*/ThirdMoon/Build/
+*/ThirdMoon/DerivedDataCache/
+*/ThirdMoon/Intermediate/
+*/ThirdMoon/Saved/
+*/ThirdMoon/Content/StarterContent/Textures
+*/ThirdMoon/Content/StarterContent/HDRI
+*/ThirdMoon/Content/StarterContent/Maps
+*/ThirdMoon/Content/AnimStarterPack
+
+######################
+# VS Generated Files #
+######################
+
+*.VC.db
+
+
+*.ipch
+*.opendb
+*.suo
+*.sln
