@@ -8,10 +8,10 @@
 */ThirdMoon/DerivedDataCache/
 */ThirdMoon/Intermediate/
 */ThirdMoon/Saved/
-*/ThirdMoon/Content/StarterContent/Textures
-*/ThirdMoon/Content/StarterContent/HDRI
-*/ThirdMoon/Content/StarterContent/Maps
-*/ThirdMoon/Content/AnimStarterPack
+*/ThirdMoon/Content/StarterContent/Textures/
+*/ThirdMoon/Content/StarterContent/HDRI/
+*/ThirdMoon/Content/StarterContent/Maps/
+*/ThirdMoon/Content/AnimStarterPack/
 
 ######################
 # VS Generated Files #
@@ -24,3 +24,5 @@
 *.opendb
 *.suo
 *.sln
+
+
