@@ -13,6 +13,16 @@ ThirdMoon/Content/StarterContent/HDRI/
 ThirdMoon/Content/StarterContent/Maps/
 ThirdMoon/Content/AnimStarterPack/
 
+MiniGames/Binaries/
+MiniGames/Build/
+MiniGames/DerivedDataCache/
+MiniGames/Intermediate/
+MiniGames/Saved/
+MiniGames/Content/StarterContent/Textures/
+MiniGames/Content/StarterContent/HDRI/
+MiniGames/Content/StarterContent/Maps/
+MiniGames/Content/AnimStarterPack/
+
 ######################
 # VS Generated Files #
 ######################
