@@ -13,15 +13,15 @@ ThirdMoon/Content/StarterContent/HDRI/
 ThirdMoon/Content/StarterContent/Maps/
 ThirdMoon/Content/AnimStarterPack/
 
-EatMe/Binaries/
-EatMe/Build/
-EatMe/DerivedDataCache/
-EatMe/Intermediate/
-EatMe/Saved/
-EatMe/Content/StarterContent/Textures/
-EatMe/Content/StarterContent/HDRI/
-EatMe/Content/StarterContent/Maps/
-EatMe/Content/AnimStarterPack/
+MiniGames/EatMe/Binaries/
+MiniGames/EatMe/Build/
+MiniGames/EatMe/DerivedDataCache/
+MiniGames/EatMe/Intermediate/
+MiniGames/EatMe/Saved/
+MiniGames/EatMe/Content/StarterContent/Textures/
+MiniGames/EatMe/Content/StarterContent/HDRI/
+MiniGames/EatMe/Content/StarterContent/Maps/
+MiniGames/EatMe/Content/AnimStarterPack/
 
 ######################
 # VS Generated Files #
